@@ -1,0 +1,6 @@
+tsc --init//tsconfig
+npm init -y//pakacge.json
+npm i @types/node -D //node modules
+create a file of .gitignore
+tsc // compile
+node main.js
